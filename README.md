@@ -16,8 +16,8 @@ O programa monitora eventos de teclado na própria máquina e registra para estu
 Não envia dados para rede, nuvem ou terceiros.
 
 # Requisitos
-Python 3.x
-Bibliotecas usadas para capturar eventos (ex.: pynput, se aplicável)
+- Python 3.x
+- Bibliotecas usadas para capturar eventos (ex.: pynput, se aplicável)
 
 # Uso
 Execute o script em ambiente controlado.
